@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is part of my web development education with The Odin Project. To complete the HTML Foundations lesson, I must build a recipe website. Once the project is completed, I will have demonstrated images, links, commit messages, and use of different elements.
